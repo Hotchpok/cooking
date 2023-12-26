@@ -9,7 +9,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    height: 1080;
+    width: 1980;
     background: whitesmoke;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
