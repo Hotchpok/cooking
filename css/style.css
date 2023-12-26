@@ -39,7 +39,7 @@ h2 {
 }
 
 button {
-    position: absolute;
+    position: relative;
     width: 150px;
     height: inherit;
     color: white;
