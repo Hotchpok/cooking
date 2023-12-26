@@ -14,10 +14,6 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.wrapper {
-    position: relative;
-}
-
 .gif {
     height: 100%;
     width: 100%;
@@ -50,6 +46,7 @@ button {
     box-shadow: 0 2px 4px gray;
     border: 2px solid #e94d58;
     font-size: 1.2em;
+    margin-left: 10px;
 }
 
 button:nth-child(1) {
@@ -58,7 +55,7 @@ button:nth-child(1) {
 }
 
 button:nth-child(2) {
-    margin-left: -200px;
+    margin-right: -200px;
     background: white;
     color: #e94d58;
 }
